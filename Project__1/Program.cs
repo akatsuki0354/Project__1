@@ -1,4 +1,4 @@
-﻿//Franco Gregorio System;
+//Franco Gregorio
 using System;
 using System.Collections.Generic;
 using System.Drawing;
@@ -39,32 +39,32 @@ namespace Project__1
                 Console.WriteLine("                              ╚═════╝ ╚══════╝╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚═╝ ╚═════╝╚══════╝                           ");
                 Console.WriteLine("                                                                                                                       ");
                 Console.WriteLine("        ████████████████████████████████████████████████████████████████████████████████████████████████████           ");
-                Console.WriteLine("        ██                                                                                                ██           ");
-                Console.WriteLine("        ██                                      Genetics Menu:                                            ██           ");
-                Console.WriteLine("        ██                                                                                                ██           ");
-                Console.WriteLine("        ██                                                        @@@@@@@@@@@@@@@@@@#PB@@@@@@@@@          ██           ");
-                Console.WriteLine("        ██                                                        @@@@@@@@@@@@@@@@@B5G@@@@@@@@@@          ██           ");
-                Console.WriteLine("        ██                                                        @@@@@@@@@@@@@@@@BPGJ?P&@@@@@&&          ██           ");
-                Console.WriteLine("        ██                                                        @@@@@@@@@@@@@@@&P5#&GJ7?P&@PJG          ██           ");
-                Console.WriteLine("        ██     [ 1 ] What is Genetics                             @@@@@@@@@@@@@@@&P5BB&@@BY?Y?P@          ██           ");
-                Console.WriteLine("        ██     [ 2 ] Types of Genetic Inheritance                 @@@@@@@@@@@@@@@@G5BPYJPB5Y5#@@          ██           ");
-                Console.WriteLine("        ██     [ 3 ] More Information About DNA and Genes         @@@@@@@@@@@@@@&#B5BBPJJPG#@@@@          ██           ");
-                Console.WriteLine("        ██     [ 4 ] Chromosomes and Their Function               @@@@@@@@@#GP55PPB5PGB#&@@@@@@@          ██           ");
-                Console.WriteLine("        ██     [ 5 ] Genetic Mutations                            @@@@@@@#PYYGYY5B#5P@@@@@@@@@@@          ██           ");
-                Console.WriteLine("        ██     [ 6 ] Gene Editing (CRISPR and Other Technologies) @@@@@@&JJYB&@&BGPYB@@@@@@@@@@@          ██           ");
-                Console.WriteLine("        ██     [ 7 ] Human Genome Project                         @@@@@@&??GP55G&PYB@@@@@@@@@@@@          ██           ");
-                Console.WriteLine("        ██     [ 8 ] Epigenetics                                  @@@@@@@G?G&#GP55#@@@@@@@@@@@@@          ██           ");
-                Console.WriteLine("        ██     [ 9 ] Evolution and Genetics                       @@@@@&BG555PGB#&@@@@@@@@@@@@@@          ██           ");
-                Console.WriteLine("        ██     [ 10 ] Module                                      @@@#G5PB&#YJB@@@@@@@@@@@@@@@@@          ██           ");
-                Console.WriteLine("        ██     [ 0 ] Exit                                         #5PG#&@&#G5Y?G@@@@@@@@@@@@@@@@          ██           ");
-                Console.WriteLine("        ██                                                        ##&#GP55PB#Y7B@@@@@@@@@@@@@@@@          ██           ");
-                Console.WriteLine("        ██                                                        @@@@@@@&#PJJP@@@@@@@@@@@@@@@@@          ██           ");
-                Console.WriteLine("        ██                                                        @@@@@@@@@GYG@@@@@@@@@@@@@@@@@@          ██           ");
-                Console.WriteLine("        ██                                                                                                ██           ");
-                Console.WriteLine("        ██                                                                                                ██           ");
-                Console.WriteLine("        ██                                                                                                ██           ");
-                Console.WriteLine("        ██                                                                                                ██           ");
-                Console.WriteLine("        ██                                                                                                ██           ");
+                Console.WriteLine("        ██                                                                       ..+%#:.  ..:==..         ██           ");
+                Console.WriteLine("        ██                                      Genetics Menu:                    -@:..%-..:@+.:@-..      ██           ");
+                Console.WriteLine("        ██                                                                     ...%=  .=#..%=  .=%..      ██           ");
+                Console.WriteLine("        ██                                                                     ...@.  .:%..@.  .:@..      ██           ");
+                Console.WriteLine("        ██                                                                     ...@.   :%.:@.  .-%..      ██           ");
+                Console.WriteLine("        ██                                                                     ...%:  .+#:=#.  .+*..      ██           ");
+                Console.WriteLine("        ██                                                                     ..#@-  ....:..  .%=..      ██           ");
+                Console.WriteLine("        ██     [ 1 ] What is Genetics                                        ..:@:..           .*%..      ██           ");
+                Console.WriteLine("        ██     [ 2 ] Types of Genetic Inheritance                            .:@:.             ..-@...    ██           ");
+                Console.WriteLine("        ██     [ 3 ] More Information About DNA and Genes                    .**..             . .=%..    ██           ");
+                Console.WriteLine("        ██     [ 4 ] Chromosomes and Their Function                          .#=.                .:@..    ██           ");
+                Console.WriteLine("        ██     [ 5 ] Genetic Mutations                                   :+*+.*+...*:..    ..... .:@..    ██           ");
+                Console.WriteLine("        ██     [ 6 ] Gene Editing (CRISPR and Other Technologies)        =#.@.:@...:........-@.. .+%..    ██           ");
+                Console.WriteLine("        ██     [ 7 ] Human Genome Project                                .%.@@@%@=....+#%..  ....*%.  ... ██           ");
+                Console.WriteLine("        ██     [ 8 ] Epigenetics                                    .....=#.#*+..:#%=:.......:=#%-....=#= ██           ");
+                Console.WriteLine("        ██     [ 9 ] Evolution and Genetics                           ..=+..*+*. ..*@*=#@%**@@%.-*#:.:#:% ██           ");
+                Console.WriteLine("        ██     [ 10 ] Module                                        ....%:::#*=#....-@:%%@-=@-.....*=%=%. ██           ");
+                Console.WriteLine("        ██     [ 0 ] Exit                                           ...#-:::::-+=.  ..%%#%%-.    ..*@:+-. ██           ");
+                Console.WriteLine("        ██                                                          ....=++==-%:..  ....@...     :@++=*.. ██           ");
+                Console.WriteLine("        ██                                                          .........#+.... .+#.@...     .-@#-... ██           ");
+                Console.WriteLine("        ██                                                                 .*#..    ....@..      ..*#.    ██           ");
+                Console.WriteLine("        ██                                                                 .@...    .#*.%..      ...@:    ██           ");
+                Console.WriteLine("        ██                                                                 .=%=...  ...:%..    ...+@:.    ██           ");
+                Console.WriteLine("        ██                                                                   ..*@#-....-#.....:+@%:.      ██           ");
+                Console.WriteLine("        ██                                                                     .*@=-+#@%%@#*+=#+..        ██           ");
+                Console.WriteLine("        ██                                                                     ....--:....*##*...         ██           ");
                 Console.WriteLine("        ████████████████████████████████████████████████████████████████████████████████████████████████████           ");
                 Console.WriteLine("                                                                                                                       ");
                 Console.WriteLine("                                                                                                                       ");
@@ -237,26 +237,26 @@ namespace Project__1
                 Console.WriteLine("                              ╚═════╝ ╚══════╝╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚═╝ ╚═════╝╚══════╝                           ");
                 Console.WriteLine("                                                                                                                       ");
                 Console.WriteLine("        ████████████████████████████████████████████████████████████████████████████████████████████████████           ");
-                Console.WriteLine("        ██                                                                                                ██           ");
-                Console.WriteLine("        ██                        Types of Genetic Inheritance                                            ██           ");
-                Console.WriteLine("        ██                                                                                                ██           ");
-                Console.WriteLine("        ██                                            !!!!!!!!!!!7Y5J!!!!!!!!!!!!!77!!!!!!!!!!!!!!!       ██           ");
-                Console.WriteLine("        ██                                            !!!!!!!!!!!5PPPJ!!!!!!!!!!75GGP?!!!!!!!!!!!!!       ██           ");
-                Console.WriteLine("        ██                                            !!!!!!!!!!!YYYY?!!!!!!!!!?BY!!JBY!!!!!!!!!!!!       ██           ");
-                Console.WriteLine("        ██     [ 1 ] Dominant Inheritance             !!!!!!!!!?JY555JJ7!!!!!!!75Y77JP?!!!!!!!!!!!!       ██           ");
-                Console.WriteLine("        ██     [ 2 ] Recessive Inheritance            !!!!!!!!?YYYPB5YYY7!!!!!77~~77!~!7!!!!!!!!!!!       ██           ");
-                Console.WriteLine("        ██     [ 3 ] Co-Dominance                     !!!!!!!!JYYY5GYYYY7!!!!!7!7~!7~7!?!!!!!!!!!!!       ██           ");
-                Console.WriteLine("        ██     [ 4 ] Incomplete Dominance             !!!!!!!!JYYYY5YYYY7!!!!!7!7!77!?!?!!!!!!!!!!!       ██           ");
-                Console.WriteLine("        ██     [ 5 ] Sex-Linked Inheritance           !!!!!!!!JYYYYYYYYY7!!!!!77!!77!!7?!!!!!!!!!!!       ██           ");
-                Console.WriteLine("        ██     [ 6 ] Mitochondrial Inheritance        !!!!!!!!J55YYYYY557!!!!!7!~~77~~!7!!!!!!!!!!!       ██           ");
-                Console.WriteLine("        ██     [ 0 ] Go Back                          !!!!!!!!7?JYYYY5?7!!!!!7!~!!77~~~!7!!!!!!!!!!       ██           ");
-                Console.WriteLine("        ██                                            !!!!!!!!!!?YYYYY!!!!!!!7!!!~77~~~~7!!!!!!!!!!       ██           ");
-                Console.WriteLine("        ██                                            !!!!!!!!!!?YYYYY!!!!!!!7!!!!!!~~~~7!!!!!!!!!!       ██           ");
-                Console.WriteLine("        ██                                            !!!!!!!!!!7YYY5J!!!!!!!77777!!77777!!!!!!!!!!       ██           ");
-                Console.WriteLine("        ██                                            !!!!!!!!!!75YY5?!!!!!!!!!!77~~7!!!!!!!!!!!!!!       ██           ");
-                Console.WriteLine("        ██                                            !!!!!!!!!!7YYYY7!!!!!!!!!!!7!!7!!!!!!!!!!!!!!       ██           ");
-                Console.WriteLine("        ██                                            !!!!!!!!!!!7777!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!       ██           ");
-                Console.WriteLine("        ██                                                                                                ██           ");
+                Console.WriteLine("        ██                                                     ..-+#%%%%%%%%#+-..                         ██           ");
+                Console.WriteLine("        ██                Types of Genetic Inheritance      ..+@@+:..........:+@@+..                      ██           ");
+                Console.WriteLine("        ██                                               ..-#%=:.-+#%%%##%%%#+-.:=%#-..                   ██           ");
+                Console.WriteLine("        ██                                              ..#%-.:*@*-:-#*-....:-#@*:.-%#..                  ██           ");
+                Console.WriteLine("        ██                                             .-@*.:*@=...*@-=@=.......=@*:.*@-.                 ██           ");
+                Console.WriteLine("        ██                                            .-%=.-%*.....-%%%%:.==..:...*%-.=%:.                ██           ");
+                Console.WriteLine("        ██     [ 1 ] Dominant Inheritance             .%+.-%=..........=+-#@%@#....+%::+%.                ██           ");
+                Console.WriteLine("        ██     [ 2 ] Recessive Inheritance            +%:.#*.....#+=@#::@%**+*@#=:..*#.:%+.               ██           ");
+                Console.WriteLine("        ██     [ 3 ] Co-Dominance                     %*.:@-....+@#***##*#@+%#*@=...-@-.#%..              ██           ");
+                Console.WriteLine("        ██     [ 4 ] Incomplete Dominance             :%-.+%:...#@@@@@@@%=#=...+@@%-%+.=@:                ██           ");
+                Console.WriteLine("        ██     [ 5 ] Sex-Linked Inheritance           .+#::*#......#+..+:.........:#*::#+.                ██           ");
+                Console.WriteLine("        ██     [ 6 ] Mitochondrial Inheritance         ..*%=.:#@=..+@%+*@%:....=@#..=@*..                 ██           ");
+                Console.WriteLine("        ██     [ 0 ] Go Back                             .:##-.:+%@@+=---*@=*%%+:.-#%*%#=+-....           ██           ");
+                Console.WriteLine("        ██                                                ..-#%+:.:--+****+-::.:+%%@#=#%+-#%:...          ██           ");
+                Console.WriteLine("        ██                                                   ..-%@%+-::::::-*%@%-...*@*::-%%@%:....       ██           ");
+                Console.WriteLine("        ██                                                     ....:-=++++=-:....  .+%--%%=--=%*....      ██           ");
+                Console.WriteLine("        ██                                                           ......        ..-@@=---::-+@*..      ██           ");
+                Console.WriteLine("        ██                                                                            ...+%*---:--*@      ██           ");
+                Console.WriteLine("        ██                                                                             ....*@+---%%:      ██           ");
+                Console.WriteLine("        ██                                                                                 ...#%@%-..     ██           ");
                 Console.WriteLine("        ████████████████████████████████████████████████████████████████████████████████████████████████████           ");
                 Console.WriteLine("                                                                                                                       ");
                 Console.WriteLine("                                                                                                                       ");
@@ -1361,7 +1361,7 @@ namespace Project__1
                 Console.WriteLine("        ██                                                                                                ██ ");
                 Console.WriteLine("        ██                       Gene Editing (CRISPR and Other Technologies):                            ██ ");
                 Console.WriteLine("        ██                                                                                                ██ ");
-                Console.WriteLine("        ██                                                 PBGY???77777777!!!!!!!!77777777?????JJJJY      ██ ");
+                Console.WriteLine("        ██                                                 PBGY???7777777777777777?????JJJJY77777???      ██ ");
                 Console.WriteLine("        ██                                                 ?PB5777!!!!!!!~~~~~~~~~!!!!!!!77777????JJ      ██ ");
                 Console.WriteLine("        ██                                                 7JGG?!!~~~~~~~~^^^^^^^^^^~~~~~~!!!!777???      ██ ");
                 Console.WriteLine("        ██                                                 77PBY~~^^^^^^^^^:::.:~~^::^^^^~~~~!!!!777      ██ ");
@@ -1382,7 +1382,7 @@ namespace Project__1
                 Console.WriteLine("        ██                                                 !!~~~~^^^^^^::::::::::::::^:7BB7^^!YPGPJ?      ██ ");
                 Console.WriteLine("        ██                                                 7!!!!~~~~~^^^^^^^^^^^^^^^^^^~GB5!JPGPY77?      ██ ");
                 Console.WriteLine("        ██                                                 ?7777!!!!~~~~~~~~~~~~~~~~~~~~YBGPGPY?7???      ██ ");
-                Console.WriteLine("        ██                                                 ????77777!!!!!!!!!!!!!!!!!!!!7GBBPJ???JJJ      ██ ");
+                Console.WriteLine("        ██                                                 ????77777!!!!7GBBPJ???JJJ77777????JJ77777      ██ ");
                 Console.WriteLine("        ██                                                                                                ██ ");
                 Console.WriteLine("        ██                                                                                                ██ ");
                 Console.WriteLine("        ████████████████████████████████████████████████████████████████████████████████████████████████████ ");
@@ -3122,11 +3122,12 @@ namespace Project__1
                 Console.WriteLine("        ██                                    [1] Module 1                                                ██");
                 Console.WriteLine("        ██                                    [2] Module 2                                                ██");
                 Console.WriteLine("        ██                                    [3] Module 3                                                ██");
+                Console.WriteLine("        ██                                    [4] Activity                                                ██");
                 Console.WriteLine("        ██                                    [0] Exit                                                    ██");
                 Console.WriteLine("        ██                                                                                                ██");
                 Console.WriteLine("        ████████████████████████████████████████████████████████████████████████████████████████████████████");
                 Console.WriteLine("  ");
-                Console.Write("Enter your choice: ");
+                Console.Write("                          Enter your choice: ");
                 mainChoice = int.Parse(Console.ReadLine());
 
                 switch (mainChoice)
@@ -3139,6 +3140,9 @@ namespace Project__1
                         break;
                     case 3:
                         DisplayModule3();
+                        break;
+                    case 4:
+                        Activity();
                         break;
                     case 0:
                         DisplayModule3();
@@ -3156,6 +3160,7 @@ namespace Project__1
             do
             {
                 Console.Clear();
+                Console.WriteLine("");
                 Console.WriteLine("        ████████████████████████████████████████████████████████████████████████████████████████████████████");
                 Console.WriteLine("        ██                                                                                                ██");
                 Console.WriteLine("        ██                      ███    ███  ██████  ██████  ██    ██ ██      ███████      ██              ██");
@@ -3178,7 +3183,7 @@ namespace Project__1
                 Console.WriteLine("        ██                                                                                                ██");
                 Console.WriteLine("        ████████████████████████████████████████████████████████████████████████████████████████████████████");
                 Console.WriteLine("");
-                Console.Write("Enter your choice: ");
+                Console.Write("                          Enter your choice: ");
                 choice = int.Parse(Console.ReadLine());
                 switch (choice)
                 {
@@ -3590,6 +3595,7 @@ namespace Project__1
             do
             {
                 Console.Clear();
+                Console.WriteLine("");
                 Console.WriteLine("        ████████████████████████████████████████████████████████████████████████████████████████████████████");
                 Console.WriteLine("        ██                                                                                                ██");
                 Console.WriteLine("        ██                  ███    ███  ██████  ██████  ██    ██ ██      ███████     ██████               ██");
@@ -3612,7 +3618,7 @@ namespace Project__1
                 Console.WriteLine("        ██                                                                                                ██");
                 Console.WriteLine("        ████████████████████████████████████████████████████████████████████████████████████████████████████");
                 Console.WriteLine("");
-                Console.Write("Enter your choice: ");
+                Console.Write("                          Enter your choice: ");
                 choice = int.Parse(Console.ReadLine());
                 switch (choice)
                 {
@@ -3748,7 +3754,7 @@ namespace Project__1
             }
 
             Console.WriteLine();
-            Console.Write("[0] Back / [1] Retry: ");
+            Console.Write("                      [0] Back / [1] Retry: ");
             int choice = Convert.ToInt32(Console.ReadLine());
             switch (choice)
             {
@@ -3803,7 +3809,7 @@ namespace Project__1
             }
 
             Console.WriteLine();
-            Console.Write("[0] Back / [1] Retry: ");
+            Console.Write("                      [0] Back / [1] Retry: ");
             int choice = Convert.ToInt32(Console.ReadLine());
             switch (choice)
             {
@@ -3866,7 +3872,7 @@ namespace Project__1
             }
 
             Console.WriteLine();
-            Console.Write("[0] Back / [1] Retry: ");
+            Console.Write("                      [0] Back / [1] Retry: ");
             int choice = Convert.ToInt32(Console.ReadLine());
             switch (choice)
             {
@@ -3929,7 +3935,7 @@ namespace Project__1
             }
 
             Console.WriteLine();
-            Console.Write("[0] Back / [1] Retry: ");
+            Console.Write("                      [0] Back / [1] Retry: ");
             int choice = Convert.ToInt32(Console.ReadLine());
             switch (choice)
             {
@@ -3996,7 +4002,7 @@ namespace Project__1
             }
 
             Console.WriteLine();
-            Console.Write("[0] Back / [1] Retry: ");
+            Console.Write("                      [0] Back / [1] Retry: ");
             int choice = Convert.ToInt32(Console.ReadLine());
             switch (choice)
             {
@@ -4040,7 +4046,7 @@ namespace Project__1
             }
 
             Console.WriteLine();
-            Console.Write("[0] Back / [1] Retry: ");
+            Console.Write("                      [0] Back / [1] Retry: ");
             int choice = Convert.ToInt32(Console.ReadLine());
             switch (choice)
             {
@@ -4124,7 +4130,7 @@ namespace Project__1
             }
 
             Console.WriteLine();
-            Console.Write("[0] Back / [1] Retry: ");
+            Console.Write("                      [0] Back / [1] Retry: ");
             int choice = Convert.ToInt32(Console.ReadLine());
             switch (choice)
             {
@@ -4230,7 +4236,7 @@ namespace Project__1
             Console.WriteLine("3. Three Installments (10% Discount)");
             Console.WriteLine("0. Exit");
 
-            Console.Write("Enter your choice: ");
+            Console.Write("                          Enter your choice: ");
             int input = Convert.ToInt32(Console.ReadLine());
 
             double discount10Percent = amount * 0.10;
@@ -4263,7 +4269,7 @@ namespace Project__1
             }
 
             Console.WriteLine();
-            Console.Write("[0] Back / [1] Retry: ");
+            Console.Write("                      [0] Back / [1] Retry: ");
             int choice = Convert.ToInt32(Console.ReadLine());
             switch (choice)
             {
@@ -4336,7 +4342,7 @@ namespace Project__1
             }
 
             Console.WriteLine();
-            Console.Write("[0] Back / [1] Retry: ");
+            Console.Write("                      [0] Back / [1] Retry: ");
             int choice = Convert.ToInt32(Console.ReadLine());
             switch (choice)
             {
@@ -4358,6 +4364,7 @@ namespace Project__1
             do
             {
                 Console.Clear();
+            Console.WriteLine("");
                 Console.WriteLine("        ████████████████████████████████████████████████████████████████████████████████████████████████████");
                 Console.WriteLine("        ██                                                                                                ██");
                 Console.WriteLine("        ██                 ███    ███  ██████  ██████  ██    ██ ██      ███████     ██████                ██");
@@ -4380,7 +4387,7 @@ namespace Project__1
                 Console.WriteLine("        ██                                                                                                ██");
                 Console.WriteLine("        ████████████████████████████████████████████████████████████████████████████████████████████████████");
                 Console.WriteLine("");
-                Console.Write("Enter your choice: ");
+                Console.Write("                          Enter your choice: ");
                 choice = int.Parse(Console.ReadLine());
                 switch (choice)
                 {
@@ -4426,7 +4433,7 @@ namespace Project__1
             }
 
             Console.WriteLine();
-            Console.Write("[0] Back / [1] Retry: ");
+            Console.Write("                      [0] Back / [1] Retry: ");
             int choice = Convert.ToInt32(Console.ReadLine());
             switch (choice)
             {
@@ -4460,7 +4467,7 @@ namespace Project__1
                 Console.Write(" " + x + " " + y);
             }
 
-            Console.Write("[0] Back / [1] Retry: ");
+            Console.Write("                      [0] Back / [1] Retry: ");
             int choice = Convert.ToInt32(Console.ReadLine());
             switch (choice)
             {
@@ -4497,7 +4504,7 @@ namespace Project__1
             Console.WriteLine();
             Console.WriteLine();
 
-            Console.Write("[0] Back / [1] Retry: ");
+            Console.Write("                      [0] Back / [1] Retry: ");
             int choice = Convert.ToInt32(Console.ReadLine());
             switch (choice)
             {
@@ -4537,7 +4544,7 @@ namespace Project__1
             }
 
             Console.WriteLine();
-            Console.Write("[0] Back / [1] Retry: ");
+            Console.Write("                      [0] Back / [1] Retry: ");
             int choice = Convert.ToInt32(Console.ReadLine());
             switch (choice)
             {
@@ -4556,6 +4563,7 @@ namespace Project__1
         {
             // Clear the console for a fresh output
             Console.Clear();
+            Console.WriteLine("");
 
             // Display program heading
             Console.WriteLine("        ████████████████████████████████████████████████████████████████████████████████████████████████████");
@@ -4585,7 +4593,7 @@ namespace Project__1
             Console.WriteLine();
             Console.WriteLine();
 
-            Console.Write("[0] Back / [1] Retry: ");
+            Console.Write("                      [0] Back / [1] Retry: ");
             int choice = Convert.ToInt32(Console.ReadLine());
             switch (choice)
             {
@@ -4604,6 +4612,7 @@ namespace Project__1
         {
             // Clear the console for a fresh output
             Console.Clear();
+            Console.WriteLine("");
 
             // Display program heading
             Console.WriteLine("        ████████████████████████████████████████████████████████████████████████████████████████████████████");
@@ -4632,7 +4641,7 @@ namespace Project__1
             Console.WriteLine();
 
             // Allow the user to retry or exit
-            Console.Write("[0] Back / [1] Retry: ");
+            Console.Write("                      [0] Back / [1] Retry: ");
             int choice = Convert.ToInt32(Console.ReadLine());
             switch (choice)
             {
@@ -4672,7 +4681,7 @@ namespace Project__1
             }
             Console.WriteLine(" =" + total);
 
-            Console.Write("[0] Back / [1] Retry: ");
+            Console.Write("                      [0] Back / [1] Retry: ");
             int choice = Convert.ToInt32(Console.ReadLine());
             switch (choice)
             {
@@ -4692,7 +4701,7 @@ namespace Project__1
         {
             // Clear the console for a fresh output
             Console.Clear();
-
+            Console.WriteLine("");
             // Display program heading
             Console.WriteLine("        ████████████████████████████████████████████████████████████████████████████████████████████████████");
             Console.WriteLine("        ██                                                                                                ██");
@@ -4715,7 +4724,7 @@ namespace Project__1
             Console.WriteLine("=" + total);
             Console.WriteLine();
             // Allow the user to retry or exit
-            Console.Write("[0] Back / [1] Retry: ");
+            Console.Write("                      [0] Back / [1] Retry: ");
             int choice = Convert.ToInt32(Console.ReadLine());
             switch (choice)
             {
@@ -4734,7 +4743,7 @@ namespace Project__1
         {
             // Clear the console for a fresh output
             Console.Clear();
-
+            Console.WriteLine("");
             // Display program heading
             Console.WriteLine("        ████████████████████████████████████████████████████████████████████████████████████████████████████");
             Console.WriteLine("        ██                                                                                                ██");
@@ -4759,7 +4768,7 @@ namespace Project__1
 
             // Allow the user to retry or exit
             Console.WriteLine();
-            Console.Write("[0] Back / [1] Retry: ");
+            Console.Write("                      [0] Back / [1] Retry: ");
             int choice = Convert.ToInt32(Console.ReadLine());
             switch (choice)
             {
@@ -4778,6 +4787,7 @@ namespace Project__1
         {
             // Clear the console for a fresh output
             Console.Clear();
+            Console.WriteLine("");
 
             // Display program heading
             Console.WriteLine("        ████████████████████████████████████████████████████████████████████████████████████████████████████");
@@ -4804,7 +4814,7 @@ namespace Project__1
 
             // Allow the user to retry or exit
             Console.WriteLine();
-            Console.Write("[0] Back / [1] Retry: ");
+            Console.Write("                      [0] Back / [1] Retry: ");
             int choice = Convert.ToInt32(Console.ReadLine());
             switch (choice)
             {
@@ -4819,6 +4829,225 @@ namespace Project__1
                     break;
             }
         }
+         static void Activity(){
+            int choice;
+        do
+        {
+            Console.Clear();
+            Console.WriteLine("");
+            Console.WriteLine("");
+            Console.WriteLine("                              █████╗  ██████╗████████╗██╗██╗   ██╗██╗████████╗██╗   ██╗");
+            Console.WriteLine("                             ██╔══██╗██╔════╝╚══██╔══╝██║██║   ██║██║╚══██╔══╝╚██╗ ██╔╝");
+            Console.WriteLine("                             ███████║██║        ██║   ██║██║   ██║██║   ██║    ╚████╔╝ ");
+            Console.WriteLine("                             ██╔══██║██║        ██║   ██║╚██╗ ██╔╝██║   ██║     ╚██╔╝  ");
+            Console.WriteLine("                             ██║  ██║╚██████╗   ██║   ██║ ╚████╔╝ ██║   ██║      ██║   ");
+            Console.WriteLine("                             ╚═╝  ╚═╝ ╚═════╝   ╚═╝   ╚═╝  ╚═══╝  ╚═╝   ╚═╝      ╚═╝   ");
+            Console.WriteLine("");
+            Console.WriteLine("        ████████████████████████████████████████████████████████████████████████████████████████████████████           ");
+            Console.WriteLine("        ██                                                                                                ██           ");
+            Console.WriteLine("        ██                             [1] Pink Form                                                      ██           ");
+            Console.WriteLine("        ██                             [2] Calculator                                                     ██           ");
+            Console.WriteLine("        ██                             [3] Compute Salary and Bonus                                       ██           ");
+            Console.WriteLine("        ██                             [0] Back                                                           ██           ");
+            Console.WriteLine("        ██                                                                                                ██           ");
+            Console.WriteLine("        ████████████████████████████████████████████████████████████████████████████████████████████████████           ");
+            Console.WriteLine("");
+            Console.Write("                         Enter your choice: ");
 
+            if (int.TryParse(Console.ReadLine(), out choice))
+            {
+                switch (choice)
+                {
+                    case 1:
+                        PinkForm();
+                        break;
+                    case 2:
+                        Calculator();
+                        break;
+                    case 3:
+                        ComputeSalaryAndBonus();
+                        break;
+                    case 0:
+                        Console.WriteLine("Going back...");
+                        break;
+                    default:
+                        Console.WriteLine("Invalid choice. Please select a valid option.");
+                        break;
+                }
+            }
+            else
+            {
+                Console.WriteLine("Invalid input. Please enter a number.");
+            }
+
+            if (choice != 0)
+            {
+                Console.WriteLine("\nPress any key to return to the menu...");
+                Console.ReadKey();
+            }
+
+        } while (choice != 0);
+
+        Console.WriteLine("Exiting the menu. Goodbye!");
+    }
+
+    static void PinkForm()
+    {
+            Console.Clear();
+            Console.WriteLine("");
+            Console.WriteLine("                                                         ╔═╗┬┌┐┌┬┌─  ┌─┐┌─┐┬─┐┌┬┐                                                               ");
+            Console.WriteLine("                                                         ╠═╝││││├┴┐  ├┤ │ │├┬┘│││                                                               ");
+            Console.WriteLine("                                                         ╩  ┴┘└┘┴ ┴  └  └─┘┴└─┴ ┴                                                               ");
+            Console.WriteLine("");
+            Console.WriteLine("                                              Immaculate Conception I-College of Arts and Technology                                            ");
+            Console.WriteLine("┌──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐");
+            Console.WriteLine("│ STUDENT NAME         NAME (Last, Given, Middle)                        TERM                             SCHOOL YEAR                          │");
+            Console.WriteLine("│ 2024-0050-IC         GREGORIO, FRANCO, MIRARZA                           1                                2024-2025                          │");
+            Console.WriteLine("├──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤");
+            Console.WriteLine("│ COURSE                       SECTION                                  YEAR LEVEL                        ACADEMIC STATUS                      │");
+            Console.WriteLine("│   BSIS                       BSIS 1-2                                     1                             IRREGULAR                            │");
+            Console.WriteLine("├──────────────────────────────────────────────────────────────────┬─────────────────────────────────────────┬─────────────────────────────────┤");
+            Console.WriteLine("│    CLASS IDSUB NO.CODE     TITLE                            UNITS│ TOTAL:                                  │MODE OF PAYMENT                  │");
+            Console.WriteLine("│                                                                  │                                         │                                 │");
+            Console.WriteLine("│    BSIS 1-2   C-EN1  PURPOSIVE COMMUNICATION                    3│ Registration Fee                1,000.00│ FULL PAYMENT                    │");
+            Console.WriteLine("│                                                                  │                                         │                                 │");
+            Console.WriteLine("│    BSIS 1-2   C-HUM ART APPRECIATION                            3│ Total Tuition Fee              10,500.00│ 1st Payment            15,900.00│");
+            Console.WriteLine("│                                                                  │                                         │                                 │");
+            Console.WriteLine("│    BSIS 1-2   CC2    COMPUTER PROGRAMMING 1 (FUND OF            3│ Stud. Dev/Lab/ComSys/Etc            0.00│ 2nd Payment                 0.00│");
+            Console.WriteLine("│                                                                  │                                         │                                 │");
+            Console.WriteLine("│    BSIS 1-2   TH 1   SALVATION HISTORY                          3│ Total Misc. Fee                 4,400.00│ 3rd Payment                 0.00│");
+            Console.WriteLine("│                                                                  │                                         │                                 │");
+            Console.WriteLine("│    BSIS 1-2   NSTP 1 CWSTS 1                                    3│ Other Fee                           0.00│ 4th Payment                 0.00│");
+            Console.WriteLine("│                                                                  │                                         │                                 │");
+            Console.WriteLine("│                                                                  │ AMOUNT DUE                     15,900.00│ 5th Payment                 0.00│");
+            Console.WriteLine("│                                                                  │                                         │                                 │");
+            Console.WriteLine("│                                                                  │ Discount Fee                      00.00 │ 6th Payment                 0.00│");
+            Console.WriteLine("│                                                                  │                                         │                                 │");
+            Console.WriteLine("│                                                                  │ Other Discount Fee                0.00  │ TOTAL:                          │");
+            Console.WriteLine("│                                                                  │                                         │                                 │");
+            Console.WriteLine("│                                                                  │ TOTAL DISCOUNTS                   0.00  │                                 │");
+            Console.WriteLine("│                                                                  │                                         │                                 │");
+            Console.WriteLine("│                                                                  │ Special Class                     0.00  │                                 │");
+            Console.WriteLine("│                                                                  │                                         │                                 │");
+            Console.WriteLine("│                                                                  │ NET AMOUNT DUE                 15,900.00│                                 │");
+            Console.WriteLine("│                                                                  │                                         │                                 │");
+            Console.WriteLine("│                                                                  ├─────────────────────────────────────────┼─────────────────────────────────┤");
+            Console.WriteLine("│                                                                  │                                         │                                 │");
+            Console.WriteLine("│                                                                  │ CONTRACT:                               │STUDENT'S NAME & SIGNATURE       │");
+            Console.WriteLine("│                                                                  │                                         │                                 │");
+            Console.WriteLine("│                                                                  │  Upom admission at the ICICAT, I hereby │                                 │");
+            Console.WriteLine("│                                                                  │promise to obey all the existing rules   │                                 │");
+            Console.WriteLine("│                                                                  │                                         │                                 │");
+            Console.WriteLine("│                                                                  │and regulation established by the        │                                 │");
+            Console.WriteLine("├───────────────────────────────────────┬──────────────────────────┤                                         │                                 │");
+            Console.WriteLine("│ DATE                                  │ TOTAL                    │authorities of this                      │     KEYLYN S.D. ZANO            │");
+            Console.WriteLine("│       7/09/24                         │                 15       │                                         │                                 │");
+            Console.WriteLine("|                                       │                          │institution                              │           Assessed By           │");
+            Console.WriteLine("└───────────────────────────────────────┴──────────────────────────┴─────────────────────────────────────────┴─────────────────────────────────┘");
+        Console.WriteLine();
+            Console.Write("                      [0] Back / [1] Retry: ");
+            int choice = Convert.ToInt32(Console.ReadLine());
+            switch (choice)
+            {
+                case 1:
+                   PinkForm();
+                    break;
+                case 0:
+
+                    Activity();
+                    break;
+                default:
+                    Console.WriteLine("Returning to main menu...");
+                    break;
+            }
+    }
+
+    static void Calculator()
+    {
+        Console.Clear();
+        Console.WriteLine("");
+        Console.WriteLine("                             ╔═╗┌─┐┬  ┌─┐┬ ┬┬  ┌─┐┌┬┐┌─┐┬─┐");
+        Console.WriteLine("                             ║  ├─┤│  │  │ ││  ├─┤ │ │ │├┬┘");
+        Console.WriteLine("                             ╚═╝┴ ┴┴─┘└─┘└─┘┴─┘┴ ┴ ┴ └─┘┴└─");
+        Console.WriteLine("");
+            double num1, num2, multi, divide, add, sub;
+
+            //input
+            Console.Write("                     Input Num1: ");
+            num1 = Convert.ToDouble(Console.ReadLine());
+
+            Console.Write("                     Input Num2: ");
+            num2 = Convert.ToDouble(Console.ReadLine());
+
+            //process
+            multi = num1 * num2;
+            divide = num1 / num2;
+            add = num1 + num2;
+            sub = num1 - num2;
+
+            //output
+            Console.WriteLine("                     Multiplication: " + multi);
+            Console.WriteLine("                     division: " + divide);
+            Console.WriteLine("                     addition: " + add);
+            Console.WriteLine("                     subtruction: " + sub);
+                Console.WriteLine();
+            Console.Write("                      [0] Back / [1] Retry: ");
+            int choice = Convert.ToInt32(Console.ReadLine());
+            switch (choice)
+            {
+                case 1:
+                    Calculator();                    
+                    break;
+                case 0:
+                Activity();
+                    break;
+                default:
+                    Console.WriteLine("Returning to main menu...");
+                    break;
+            }
+     }
+
+    static void ComputeSalaryAndBonus()
+    {
+        Console.Clear();
+        Console.WriteLine("");
+        Console.WriteLine("        ╔═╗┌─┐┌┬┐┌─┐┬ ┬┌┬┐┌─┐  ╔═╗┌─┐┬  ┌─┐┬─┐┬ ┬  ┌─┐┌┐┌┌┬┐  ╔╗ ┌─┐┌┐┌┬ ┬┌─┐  ");
+        Console.WriteLine("        ║  │ ││││├─┘│ │ │ ├┤   ╚═╗├─┤│  ├─┤├┬┘└┬┘  ├─┤│││ ││  ╠╩╗│ │││││ │└─┐  ");
+        Console.WriteLine("        ╚═╝└─┘┴ ┴┴  └─┘ ┴ └─┘  ╚═╝┴ ┴┴─┘┴ ┴┴└─ ┴   ┴ ┴┘└┘─┴┘  ╚═╝└─┘┘└┘└─┘└─┘  ");
+        Console.WriteLine("");
+string name;
+double salary, bonus;
+
+ Console.Write("                            Enter The Name:");
+name = Convert.ToString(Console.ReadLine());
+
+Console.Write("                             Enter The salary");
+ salary = Convert.ToDouble(Console.ReadLine());
+
+if (salary <= 1000)
+{
+  bonus = salary * 0.50;
+ Console.Write( "                   Hi" + name+"Your Salary is" + bonus);
+ }
+ else if (salary >= 1000)
+ {
+   Console.Write("Your salary is 1000");
+ }
+     Console.WriteLine();
+            Console.Write("                      [0] Back / [1] Retry: ");
+            int choice = Convert.ToInt32(Console.ReadLine());
+            switch (choice)
+            {
+                case 1:
+                    ComputeSalaryAndBonus();                    
+                    break;
+                case 0:
+                Activity();
+                    break;
+                default:
+                    Console.WriteLine("Returning to main menu...");
+                    break;
+            }
+     }
     }
 }
